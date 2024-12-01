@@ -1,0 +1,10 @@
+Création de la sauvegarde: /Users/fawsy/CascadeProjects/mynurseshift-api/backups/mynurseshift-2024-11-30_16-00-03.sql
+Compression de la sauvegarde
+Nettoyage des anciennes sauvegardes
+Sauvegardes disponibles:
+total 24
+-rw-r--r--  1 fawsy  staff   101B Nov 30 16:00 backup.error.log
+-rw-r--r--  1 fawsy  staff   209B Nov 30 16:00 backup.log
+-rw-r--r--@ 1 fawsy  staff    57B Nov 30 16:00 mynurseshift-2024-11-30_16-00-03.sql.gz
+Espace disque utilisé par les sauvegardes:
+ 12K	/Users/fawsy/CascadeProjects/mynurseshift-api/backups
